@@ -84,8 +84,6 @@ It re-ranks insurers in ways CSR alone never could.
 
 ```
 ├── notebooks/
-│   ├── 01_eda_and_gap_analysis.ipynb       ← sign test, Spearman ρ, variance ratio
-│   ├── 02_logistic_model.ipynb             ← β̂ estimation, Investigation Intensity
 │   └── claim_decision_model.ipynb          ← Monte Carlo: lognormal · Pareto · Weibull
 └── outputs/
     └── working_paper.pdf                   ← full working paper (LaTeX)
