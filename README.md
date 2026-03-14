@@ -88,7 +88,6 @@ It re-ranks insurers in ways CSR alone never could.
 │   ├── 02_logistic_model.ipynb             ← β̂ estimation, Investigation Intensity
 │   └── claim_decision_model.ipynb          ← Monte Carlo: lognormal · Pareto · Weibull
 └── outputs/
-    ├── claim_decision_model.html           ← interactive visualization
     └── working_paper.pdf                   ← full working paper (LaTeX)
 ```
 
