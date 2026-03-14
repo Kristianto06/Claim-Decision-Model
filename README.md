@@ -76,7 +76,7 @@ It re-ranks insurers in ways CSR alone never could.
 
 * [ ] Fit logistic regression on individual claim records to validate β̂ directly
 * [ ] Segment by product line — does β differ for term life vs. ULIP?
-* [ ] Extend to other regulators — OJK Indonesia, BNM Malaysia, OIC Thailand
+* [ ] Extend to other regulators
 * [ ] Consumer tool: *"Enter your sum assured → find the right insurer for your risk profile"*
 
 <br>
